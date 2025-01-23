@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Dad Joke Extension",
+  "description": "Get a random dad joke every time!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
